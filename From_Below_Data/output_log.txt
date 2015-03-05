@@ -1,0 +1,26 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jess\Desktop\Climber_final\From_Below_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jess\Desktop\Climber_final\From_Below_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jess\Desktop\Climber_final\From_Below_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jess\Desktop\Climber_final\From_Below_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.217870 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 121.
+Total: 0.607811 ms (FindLiveObjects: 0.007276 ms CreateObjectMapping: 0.006848 ms MarkObjects: 0.053932 ms  DeleteObjects: 0.036383 ms)
+
+in
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
